@@ -1,8 +1,13 @@
 ---
 layout: post
 title:  "Github Page와 Jekyll을 이용해 블로그 작성하기 02"
-categories: [Developments]
-tags: [jekyll]
+date: 2018-02-17
+description: jekyll 설치하기
+comments: true
+categories: 
+- Developments
+tags: 
+- jekyll
 ---
 
 너무 쉽게 다짐이 깨져버렸다.
